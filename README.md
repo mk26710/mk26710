@@ -12,3 +12,16 @@ I greatly appreciate open-source community and admire the developers who are con
  - [Tomodachi](https://github.com/httport/tomodachi) moderation Discord bot written in Python 
  - - [Tomodachi REST](https://github.com/httport/tomodachi-rest) is a small backend written in Python FastAPI for the Tomodachi Discord bot
  - [Twitch Chat Reader](https://github.com/httport/Twitch-Chat-Reader) for Minecraft, a mod written with Java and Fabric API 
+
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=httpolar&theme=github_dark&layout=compact"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=httpolar&theme=light&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpolar&layout=compact" />
+</picture>
