@@ -8,7 +8,7 @@ I greatly appreciate open-source community and admire the developers who are con
 #### Here's some projects that I've created
 
  - [University timetable](https://github.com/httport/uni-timetable-bot) Telegram bot written in Rust
- - [zaychik](https://github.com/httport/zaychik) general purpose Discord bot wirtten in Rust
+ - [zaychik](https://github.com/httport/zaychik) general purpose Discord bot originally wirtten in Rust, and now rewritten in Kotlin
  - [Tomodachi](https://github.com/httport/tomodachi) moderation Discord bot written in Python 
  - - [Tomodachi REST](https://github.com/httport/tomodachi-rest) is a small backend written in Python FastAPI for the Tomodachi Discord bot
  - [Twitch Chat Reader](https://github.com/httport/Twitch-Chat-Reader) for Minecraft, a mod written with Java and Fabric API 
