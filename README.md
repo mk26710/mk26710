@@ -4,15 +4,4 @@ I'm a software engineer and I love programming! Currently I'm interested in web 
 
 I greatly appreciate open-source community and admire the developers who are constantly contributing to the open-source development. Lately I have been excited to work with Linux and its ecosystem, currently using Arch Linux on my devices.
 
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mk26710&hide=kotlin,css,rust&layout=compact&theme=github_dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mk26710&hide=kotlin,css,rust&layout=compact&theme=light"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk26710&hide=kotlin,css,rust&layout=compact" />
-</picture>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mk26710&hide=kotlin,css,rust&layout=compact&theme=github_dark)
